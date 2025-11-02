@@ -1,4 +1,3 @@
-
 import React from 'react';
 import Header from './components/Header';
 import Hero from './components/Hero';
@@ -18,6 +17,7 @@ function App() {
         <Contact />
       </main>
       <Footer />
+      <elevenlabs-convai agent-id="agent_1501k9233yrrfk3sdesbacvsnbbj"></elevenlabs-convai>
     </div>
   );
 }
